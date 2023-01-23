@@ -1,0 +1,15 @@
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\bin\Debug\net6.0\Ovihommeli.exe
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\bin\Debug\net6.0\Ovihommeli.deps.json
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\bin\Debug\net6.0\Ovihommeli.runtimeconfig.json
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\bin\Debug\net6.0\Ovihommeli.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\bin\Debug\net6.0\Ovihommeli.pdb
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.csproj.AssemblyReference.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.AssemblyInfoInputs.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.AssemblyInfo.cs
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.csproj.CoreCompileInputs.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\refint\Ovihommeli.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.pdb
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\Ovihommeli.genruntimeconfig.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\RitariPeli\Ovihommeli\obj\Debug\net6.0\ref\Ovihommeli.dll
