@@ -1,0 +1,15 @@
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\bin\Debug\net6.0\NuoliHommeli.exe
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\bin\Debug\net6.0\NuoliHommeli.deps.json
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\bin\Debug\net6.0\NuoliHommeli.runtimeconfig.json
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\bin\Debug\net6.0\NuoliHommeli.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\bin\Debug\net6.0\NuoliHommeli.pdb
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.csproj.AssemblyReference.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.AssemblyInfoInputs.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.AssemblyInfo.cs
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.csproj.CoreCompileInputs.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\refint\NuoliHommeli.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.pdb
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\NuoliHommeli.genruntimeconfig.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\NuoliHommeli\obj\Debug\net6.0\ref\NuoliHommeli.dll
