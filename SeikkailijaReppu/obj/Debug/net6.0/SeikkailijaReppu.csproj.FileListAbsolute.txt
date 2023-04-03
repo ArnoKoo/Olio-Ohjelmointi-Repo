@@ -1,0 +1,15 @@
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\bin\Debug\net6.0\SeikkailijaReppu.exe
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\bin\Debug\net6.0\SeikkailijaReppu.deps.json
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\bin\Debug\net6.0\SeikkailijaReppu.runtimeconfig.json
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\bin\Debug\net6.0\SeikkailijaReppu.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\bin\Debug\net6.0\SeikkailijaReppu.pdb
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.csproj.AssemblyReference.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.AssemblyInfoInputs.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.AssemblyInfo.cs
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.csproj.CoreCompileInputs.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\refint\SeikkailijaReppu.dll
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.pdb
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\SeikkailijaReppu.genruntimeconfig.cache
+C:\Users\s2100991\OneDrive - Business College Helsinki\Työpöytä\NuoliHommeli\SeikkailijaReppu\obj\Debug\net6.0\ref\SeikkailijaReppu.dll
